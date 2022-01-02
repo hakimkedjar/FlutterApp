@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

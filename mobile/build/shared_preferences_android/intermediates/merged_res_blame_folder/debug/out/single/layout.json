@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\kedja\\.gradle\\caches\\transforms-3\\412c1761824ad6e8b8ce8a8fc6700ffd\\transformed\\core-1.1.0\\res\\layout\\notification_action.xml"
+    }
+]

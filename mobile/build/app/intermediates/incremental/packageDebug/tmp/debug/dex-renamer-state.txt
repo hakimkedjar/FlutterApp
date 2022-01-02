@@ -1,0 +1,4 @@
+#Fri Dec 17 15:57:39 CET 2021
+base.0=C\:\\Users\\kedja\\Desktop\\T-DEV-700-T-DEV-700_msc2023_group-26\\mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
